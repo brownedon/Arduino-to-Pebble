@@ -1,4 +1,5 @@
 # Arduino-to-Pebble
 Arduino to Pebble Program
 
-A quick update, for now, this only works with the Original Pebble.
+This works with the Pebble classic and steel.  Does not work with Time, something is different...
+
